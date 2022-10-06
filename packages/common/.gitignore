@@ -24,3 +24,5 @@ yarn-error.log*
 
 .rollup.cache
 dist/
+
+src/generated-config.ts
